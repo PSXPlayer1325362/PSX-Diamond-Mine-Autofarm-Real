@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PSXPlayer1325362/PSX-Diamond-Mine-Script/main/Diamond%20Mine%20Autofarm%20PSX", true))()
